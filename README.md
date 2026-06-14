@@ -78,7 +78,12 @@ Se analizó la conversión según:
 * Región.
 * Dispositivo.
 
+<img width="649" height="669" alt="Cantidad de conversiones por tipo de usuario" src="https://github.com/user-attachments/assets/0f09ed7a-79d8-4abb-a591-c1d49c8280d9" /><img width="772" height="796" alt="Proporscion de conversion por tipo de usuario" src="https://github.com/user-attachments/assets/029856fb-bdba-428d-9d6a-340e7d809104" />
+
+
 ### 5. Visualización de resultados
+<img width="762" height="674" alt="Tabla cantidad de conversiones" src="https://github.com/user-attachments/assets/80d45930-dbce-45b6-b233-8f8fbeeda2aa" />
+
 
 Se desarrollaron visualizaciones para respaldar los hallazgos estadísticos y facilitar la interpretación de resultados.
 
